@@ -35,12 +35,18 @@ Define project boundaries, List deliverables and objectives,Create Work Breakdow
 Schedule Variance (SV)-Measures the difference between plannedand actual progress.
 Gantt Charts-Visual representation of project schedule.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Highlight specific pain points faced by your target audience. Make sure to connect these pain points to the broader problem to show the depth of the issue.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-
+Start by explaining the core issue your software aims to address. Use clear, concise language to ensure your audience understands the significance of the problem.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-
+Highlight the key features and functionalities that make your solution effective
 ## 11. What are the main features or functionalities that make your software stand out?
+it should Emphasize the benefits users will gain from using your software. Focus on improved efficiency, cost savings, enhanced user experience,
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+Provide data on the current market size and projected growth. Use credible sources and up-to-date statistics.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+it regulatory changes, or shifts in consumer behavior.
+
